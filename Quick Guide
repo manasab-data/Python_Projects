@@ -1,0 +1,11 @@
+Here’s a quick guide on how to run Jupyter Notebook (.ipynb) files directly from GitHub using various platforms:
+
+USING GOOGLE COLAB:
+1. Open Google Colab
+2. Open Notebook from GitHub:
+    Click on the "GitHub" tab in the "Open a notebook" dialog.
+    Enter your GitHub repository URL or search for the notebook.
+    Select the notebook you want to run.
+3. Add a Colab Badge to Your README:
+    You can add a badge in your README.md file for direct access.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/repository-name/blob/main/path_to_your_notebook.ipynb)
